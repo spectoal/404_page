@@ -7,16 +7,23 @@
 </head>
 <body>
 
-<a href="https://cmdsites.dev/"> &larr; back</a>    
-<a href="file:///C:/Users/abiga/OneDrive/Desktop/HTML%20and%20CSS.pdf">home page</a>
+    <nav>
+        <a href="https://cmdsites.dev/"> &larr; back</a>    
+        <a href="file:///C:/Users/abiga/OneDrive/Desktop/HTML%20and%20CSS.pdf">home page</a>
+    </nav>
 
-    <h1>Sorry to rain on your parade</h1>
-    <h3>this page not found</h3>
+    <section>    
+        <h1>Sorry to rain on your parade</h1>
+        <h3>this page not found</h3>
 
-    <img src="images/rain_image.jpg" alt="rain cloud" />
+        <img src="images/rain_image.jpg" alt="rain cloud" />
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Abigail Spector</p>
+    </footer>
 
 
-<p>&copy; 2023 Abigail Spector</p>
     
 </body>
 </html>
